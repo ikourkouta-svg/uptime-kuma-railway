@@ -7,6 +7,7 @@ projects, a working Clay/Instantly/HeyReach outbound stack) into businesses that
 with minimal owner involvement.
 
 Interactive version: https://claude.ai/code/artifact/f0c5d330-9388-4c58-9fd0-bdbcc363b268
+Execution companion: [EUDR Validation Gate](./eudr-validation-gate.md) — the Days 1–10 go/no-go test for Entry 01.
 
 ---
 
